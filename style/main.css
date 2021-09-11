@@ -1,6 +1,6 @@
 html,
 body {
-  font-family:sans-serif;
+  font-family: sans-serif;
 }
 
 p,
@@ -12,5 +12,6 @@ h5,
 h6,
 ol,
 ul {
+  font-family: inherit;
   max-width: 600px;
 }
