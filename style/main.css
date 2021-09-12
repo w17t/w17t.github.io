@@ -16,7 +16,6 @@ ul {
   max-width: 600px;
 }
 
-.location ol {
-  list-style-type: none;
-  padding-left: 0;
+.location {
+  text-decoration: underline;
 }
